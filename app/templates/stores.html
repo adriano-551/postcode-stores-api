@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <title>Stores</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Location</th>
+            <th>Postcode</th>
+            <th>Longitude</th>
+            <th>Latitude</th>
+        </tr>
+        {% for store in stores: %}
+            <tr>
+                <td>{{ store.name }}</td>
+                <td>{{ store.postcode }}</td>
+                <td>{{ store.longitude }}</td>
+                <td>{{ store.latitude }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

@@ -1,0 +1,321 @@
+{
+    "status": 200,
+    "result": [
+        {
+            "outcode": "SW4",
+            "longitude": -0.13650936195652152,
+            "latitude": 51.46109733913034,
+            "northings": 175216,
+            "eastings": 529555,
+            "admin_district": [
+                "Wandsworth",
+                "Lambeth"
+            ],
+            "parish": [
+                "Lambeth, unparished area",
+                "Wandsworth, unparished area"
+            ],
+            "admin_county": [],
+            "admin_ward": [
+                "Stockwell West & Larkhall",
+                "Lavender",
+                "Brixton Acre Lane",
+                "Clapham Park",
+                "Northcote",
+                "Clapham Common & Abbeville",
+                "Clapham Town",
+                "Balham",
+                "Clapham East"
+            ],
+            "country": [
+                "England"
+            ],
+            "parliamentary_constituency": [
+                "Battersea",
+                "Vauxhall",
+                "Streatham"
+            ]
+        },
+        {
+            "outcode": "SW2",
+            "longitude": -0.11982507163323777,
+            "latitude": 51.44933279942684,
+            "northings": 173937,
+            "eastings": 530747,
+            "admin_district": [
+                "Lambeth"
+            ],
+            "parish": [
+                "Lambeth, unparished area"
+            ],
+            "admin_county": [],
+            "admin_ward": [
+                "Brixton Acre Lane",
+                "Clapham Park",
+                "Herne Hill & Loughborough Junction",
+                "Streatham Hill East",
+                "Streatham Hill West & Thornton",
+                "West Dulwich",
+                "St Martin's",
+                "Streatham St Leonard's",
+                "Brixton Windrush",
+                "Brixton Rush Common"
+            ],
+            "country": [
+                "England"
+            ],
+            "parliamentary_constituency": [
+                "Dulwich and West Norwood",
+                "Vauxhall",
+                "Streatham"
+            ]
+        },
+        {
+            "outcode": "SW8",
+            "longitude": -0.13197769176470597,
+            "latitude": 51.47672607882344,
+            "northings": 176961,
+            "eastings": 529825,
+            "admin_district": [
+                "Wandsworth",
+                "Lambeth"
+            ],
+            "parish": [
+                "Lambeth, unparished area",
+                "Wandsworth, unparished area"
+            ],
+            "admin_county": [],
+            "admin_ward": [
+                "Stockwell West & Larkhall",
+                "Clapham Town",
+                "Battersea Park",
+                "Nine Elms",
+                "Vauxhall",
+                "Oval",
+                "Shaftesbury & Queenstown"
+            ],
+            "country": [
+                "England"
+            ],
+            "parliamentary_constituency": [
+                "Battersea",
+                "Vauxhall"
+            ]
+        },
+        {
+            "outcode": "SW9",
+            "longitude": -0.11391753798767959,
+            "latitude": 51.469354572895234,
+            "northings": 176174,
+            "eastings": 531101,
+            "admin_district": [
+                "Lambeth"
+            ],
+            "parish": [
+                "Lambeth, unparished area"
+            ],
+            "admin_county": [],
+            "admin_ward": [
+                "Myatt's Fields",
+                "Stockwell West & Larkhall",
+                "Brixton Acre Lane",
+                "Herne Hill & Loughborough Junction",
+                "Brixton North",
+                "Clapham Town",
+                "Brixton Windrush",
+                "Stockwell East",
+                "Clapham East",
+                "Oval"
+            ],
+            "country": [
+                "England"
+            ],
+            "parliamentary_constituency": [
+                "Dulwich and West Norwood",
+                "Vauxhall"
+            ]
+        },
+        {
+            "outcode": "SW12",
+            "longitude": -0.14909120770519257,
+            "latitude": 51.44631191624787,
+            "northings": 173549,
+            "eastings": 528722,
+            "admin_district": [
+                "Wandsworth",
+                "Lambeth"
+            ],
+            "parish": [
+                "Lambeth, unparished area",
+                "Wandsworth, unparished area"
+            ],
+            "admin_county": [],
+            "admin_ward": [
+                "Clapham Park",
+                "Northcote",
+                "Streatham Hill West & Thornton",
+                "Clapham Common & Abbeville",
+                "South Balham",
+                "Balham",
+                "Trinity"
+            ],
+            "country": [
+                "England"
+            ],
+            "parliamentary_constituency": [
+                "Battersea",
+                "Tooting",
+                "Streatham"
+            ]
+        },
+        {
+            "outcode": "SW11",
+            "longitude": -0.16292054418604646,
+            "latitude": 51.46867360332223,
+            "northings": 176012,
+            "eastings": 527699,
+            "admin_district": [
+                "Wandsworth"
+            ],
+            "parish": [
+                "Wandsworth, unparished area"
+            ],
+            "admin_county": [],
+            "admin_ward": [
+                "Lavender",
+                "Wandsworth Town",
+                "Falconbrook",
+                "Northcote",
+                "Battersea Park",
+                "St Mary's",
+                "Balham",
+                "Nine Elms",
+                "Wandsworth Common",
+                "Shaftesbury & Queenstown"
+            ],
+            "country": [
+                "England"
+            ],
+            "parliamentary_constituency": [
+                "Battersea",
+                "Tooting"
+            ]
+        },
+        {
+            "outcode": "SW95",
+            "longitude": -0.13627422727272742,
+            "latitude": 51.48039840909092,
+            "northings": 177362,
+            "eastings": 529517,
+            "admin_district": [
+                "Wandsworth",
+                "Lambeth"
+            ],
+            "parish": [
+                "Lambeth, unparished area",
+                "Wandsworth, unparished area"
+            ],
+            "admin_county": [],
+            "admin_ward": [
+                "Stockwell West & Larkhall",
+                "Nine Elms"
+            ],
+            "country": [
+                "England"
+            ],
+            "parliamentary_constituency": [
+                "Battersea",
+                "Vauxhall"
+            ]
+        },
+        {
+            "outcode": "SE24",
+            "longitude": -0.10031142176870746,
+            "latitude": 51.45594894217689,
+            "northings": 174708,
+            "eastings": 532085,
+            "admin_district": [
+                "Southwark",
+                "Lambeth"
+            ],
+            "parish": [
+                "Lambeth, unparished area",
+                "Southwark, unparished area"
+            ],
+            "admin_county": [],
+            "admin_ward": [
+                "Champion Hill",
+                "Herne Hill & Loughborough Junction",
+                "Dulwich Village",
+                "Camberwell Green",
+                "West Dulwich",
+                "St Martin's",
+                "Brixton Windrush"
+            ],
+            "country": [
+                "England"
+            ],
+            "parliamentary_constituency": [
+                "Dulwich and West Norwood",
+                "Camberwell and Peckham"
+            ]
+        },
+        {
+            "outcode": "SW1V",
+            "longitude": -0.13997066379310333,
+            "latitude": 51.48952296551726,
+            "northings": 178370,
+            "eastings": 529235,
+            "admin_district": [
+                "Westminster",
+                "Wandsworth"
+            ],
+            "parish": [
+                "Wandsworth, unparished area",
+                "Westminster, unparished area"
+            ],
+            "admin_county": [],
+            "admin_ward": [
+                "Pimlico North",
+                "Pimlico South",
+                "Nine Elms",
+                "Vincent Square"
+            ],
+            "country": [
+                "England"
+            ],
+            "parliamentary_constituency": [
+                "Battersea",
+                "Cities of London and Westminster"
+            ]
+        },
+        {
+            "outcode": "SW1P",
+            "longitude": -0.13271008310626864,
+            "latitude": 51.49017774250686,
+            "northings": 178456,
+            "eastings": 529736,
+            "admin_district": [
+                "Westminster",
+                "Wandsworth"
+            ],
+            "parish": [
+                "Wandsworth, unparished area",
+                "Westminster, unparished area"
+            ],
+            "admin_county": [],
+            "admin_ward": [
+                "St James's",
+                "Nine Elms",
+                "Vincent Square"
+            ],
+            "country": [
+                "England"
+            ],
+            "parliamentary_constituency": [
+                "Battersea",
+                "Cities of London and Westminster"
+            ]
+        }
+    ]
+}
